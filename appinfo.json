@@ -1,0 +1,30 @@
+{
+    "appKeys": {
+        "KEY_REPGAINED": 2,
+        "KEY_TOTALREP": 1,
+        "KEY_USERNAME": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "tinydev",
+    "longName": "PebbleOverflow",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/soicon.png",
+                "name": "IMG_SOII",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "PebbleOverflow",
+    "uuid": "06f6a85f-3490-4887-a4f8-70aeced4a562",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
